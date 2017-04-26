@@ -1,0 +1,78 @@
+<pozycje>
+    <pozycja>
+        <nazwa_waluty>dolar amerykański</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>USD</kod_waluty>
+        <kurs_kupna>3,0807</kurs_kupna>
+        <kurs_sprzedazy>3,1429</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>dolar australijski</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>AUD</kod_waluty>
+        <kurs_kupna>3,2227</kurs_kupna>
+        <kurs_sprzedazy>3,2879</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>dolar kanadyjski</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>CAD</kod_waluty>
+        <kurs_kupna>3,0652</kurs_kupna>
+        <kurs_sprzedazy>3,1272</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>euro</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>EUR</kod_waluty>
+        <kurs_kupna>4,1530</kurs_kupna>
+        <kurs_sprzedazy>4,2370</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>forint (Węgry)</nazwa_waluty>
+        <przelicznik>100</przelicznik>
+        <kod_waluty>HUF</kod_waluty>
+        <kurs_kupna>1,4037</kurs_kupna>
+        <kurs_sprzedazy>1,4321</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>frank szwajcarski</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>CHF</kod_waluty>
+        <kurs_kupna>3,3423</kurs_kupna>
+        <kurs_sprzedazy>3,4099</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>funt szterling</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>GBP</kod_waluty>
+        <kurs_kupna>4,8540</kurs_kupna>
+        <kurs_sprzedazy>4,9520</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>jen (Japonia)</nazwa_waluty>
+        <przelicznik>100</przelicznik>
+        <kod_waluty>JPY</kod_waluty>
+        <kurs_kupna>3,3992</kurs_kupna>
+        <kurs_sprzedazy>3,4678</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>korona czeska</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>CZK</kod_waluty>
+        <kurs_kupna>0,1622</kurs_kupna>
+        <kurs_sprzedazy>0,1654</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>korona duńska</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>DKK</kod_waluty>
+        <kurs_kupna>0,5568</kurs_kupna>
+        <kurs_sprzedazy>0,5680</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>korona norweska</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>NOK</kod_waluty>
+        <kurs_kupna>0,5593</kurs_kupna>
+        <kurs_sprzedazy>0,5705</kurs_sprzedazy>
+    </pozycja>
